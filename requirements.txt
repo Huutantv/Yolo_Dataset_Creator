@@ -1,0 +1,6 @@
+PyQt5>=5.15.0
+Pillow>=9.0.0
+numpy>=1.19.0
+PyYAML>=5.4.0
+pip==23.3.1
+requests==2.31.0 
